@@ -28,6 +28,13 @@ A list of research paper related to quantum machine learning and variational qua
 ## Quantum Graph Neural Networks
 - [Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264) (2019)
 
+## Quantum Generative Models & Quantum GANs
+- [Quantum versus classical generative modelling in finance](https://iopscience.iop.org/article/10.1088/2058-9565/abd3db) (2021)
+
+## Variational Quantum Eigensolver
+- [The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation](https://arxiv.org/abs/2009.13545) (2020)
+- [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
+
 ## Training Techniques
 - [Avoiding local minima in Variational Quantum Algorithms with Neural Networks](https://arxiv.org/abs/2104.02955) (2021)
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
