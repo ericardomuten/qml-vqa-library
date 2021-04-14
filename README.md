@@ -14,6 +14,7 @@ A list of research paper related to quantum machine learning and variational qua
 
 ## Quantum Convolutional Neural Networks
 #### Near Term (without QRAM)
+- [Methods for accelerating geospatial data processing using quantum computers](https://link.springer.com/article/10.1007/s42484-020-00034-6) (2021)
 - [Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177) (2020)
 - [A Tutorial on Quantum Convolutional Neural Networks (QCNN)](https://arxiv.org/abs/2009.09423) (2020)
 - [Explorations in Quantum Neural Networks with Intermediate Measurements](https://www.esann.org/sites/default/files/proceedings/2020/ES2020-197.pdf) (2020)
