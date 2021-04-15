@@ -6,6 +6,8 @@ A list of research paper related to quantum machine learning and variational qua
 - [Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.sciencedirect.com/book/9780128009536/quantum-machine-learning) (2014)
 
 ## Reviews
+- [Quantum machine learning in high energy physics](https://iopscience.iop.org/article/10.1088/2632-2153/abc17d) (2021)
+- [Quantum machine learning and its supremacy in high energy physics](https://www.worldscientific.com/doi/abs/10.1142/S0217732320300244) (2021)
 - [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265) (2020)
 - [A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/) (2020)
 - [Quantum machine learning: a classical perspective](https://doi.org/10.3929/ethz-b-000240892) (2018)
@@ -15,6 +17,7 @@ A list of research paper related to quantum machine learning and variational qua
 #### Quantum Neural Networks
 - [Event Classification with Quantum Machine Learning in High-Energy Physics](https://link.springer.com/article/10.1007%2Fs41781-020-00047-7) (2021)
 - [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/) (2020)
+- [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
 - [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
 #### Quantum k-Nearest Neighbors
 - [Implementing a distance-based classifier with a quantum interference circuit](https://iopscience.iop.org/article/10.1209/0295-5075/119/60002) (2017)
@@ -33,6 +36,7 @@ A list of research paper related to quantum machine learning and variational qua
 - [Quantum Algorithms for Deep Convolutional Neural Networks](https://iclr.cc/virtual_2020/poster_Hygab1rKDS.html) (2020)
 
 ## Quantum Graph Neural Networks
+- [Quantum Generative Adversarial Networks in a Continuous-Variable Architecture to Simulate High Energy Physics Detectors](https://arxiv.org/abs/2101.11132) (2021)
 - [A Tutorial on Quantum Graph Recurrent Neural Network (QGRNN)](https://ieeexplore.ieee.org/document/9333917) (2021)
 - [Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189) (2021)
 - [Performance of Particle Tracking Using a Quantum Graph Neural Network](https://inspirehep.net/literature/1834498) (2020)
