@@ -5,12 +5,18 @@ A list of research paper related to quantum machine learning and variational qua
 - [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
 
 ## Reviews
+- [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265) (2020)
+- [A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/) (2020)
 - [Quantum machine learning: a classical perspective](https://doi.org/10.3929/ethz-b-000240892) (2018)
+- [Quantum machine learning](https://www.nature.com/articles/nature23474) (2017)
 
 ## Quantum Neural Networks & Quantum Classifier
+#### Quantum Neural Networks
 - [Event Classification with Quantum Machine Learning in High-Energy Physics](https://link.springer.com/article/10.1007%2Fs41781-020-00047-7) (2021)
 - [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/) (2020)
 - [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
+#### Quantum k-Nearest Neighbors
+- [Implementing a distance-based classifier with a quantum interference circuit](https://iopscience.iop.org/article/10.1209/0295-5075/119/60002) (2017)
 
 ## Quantum Convolutional Neural Networks
 #### Near Term (without QRAM)
@@ -26,6 +32,7 @@ A list of research paper related to quantum machine learning and variational qua
 - [Quantum Algorithms for Deep Convolutional Neural Networks](https://iclr.cc/virtual_2020/poster_Hygab1rKDS.html) (2020)
 
 ## Quantum Graph Neural Networks
+- [A Tutorial on Quantum Graph Recurrent Neural Network (QGRNN)](https://ieeexplore.ieee.org/document/9333917) (2021)
 - [Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189) (2021)
 - [Performance of Particle Tracking Using a Quantum Graph Neural Network](https://inspirehep.net/literature/1834498) (2020)
 - [A Quantum Graph Neural Network Approach to Particle Track Reconstruction](https://inspirehep.net/literature/1806878) (2020)
@@ -34,16 +41,22 @@ A list of research paper related to quantum machine learning and variational qua
 
 ## Quantum Generative Models & Quantum GANs
 - [Quantum versus classical generative modelling in finance](https://iopscience.iop.org/article/10.1088/2058-9565/abd3db) (2021)
+- [Experimental Quantum Generative Adversarial Networks for Image Generation](https://arxiv.org/abs/2010.06201) (2020)
+- [Quantum Generative Adversarial Networks for learning and loading random distributions](https://www.nature.com/articles/s41534-019-0223-2) (2019)
 
 ## Variational Quantum Eigensolver
 - [The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation](https://arxiv.org/abs/2009.13545) (2020)
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
+
+## Quantum Image Processing
+- [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
 
 ## Training Techniques
 - [Avoiding local minima in Variational Quantum Algorithms with Neural Networks](https://arxiv.org/abs/2104.02955) (2021)
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
 
 ## Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)
+- [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
 - [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://quantum-journal.org/papers/q-2021-03-29-422/) (2021)
 
 ## Uncategorized (yet)
