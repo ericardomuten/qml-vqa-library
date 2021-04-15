@@ -43,6 +43,7 @@ A list of research paper related to quantum machine learning and variational qua
 ## Quantum Generative Models & Quantum GANs
 - [Quantum versus classical generative modelling in finance](https://iopscience.iop.org/article/10.1088/2058-9565/abd3db) (2021)
 - [Experimental Quantum Generative Adversarial Networks for Image Generation](https://arxiv.org/abs/2010.06201) (2020)
+- [Quantum semi-supervised generative adversarial network for enhanced data classification](https://arxiv.org/abs/2010.13727) (2020)
 - [Quantum Generative Adversarial Networks for learning and loading random distributions](https://www.nature.com/articles/s41534-019-0223-2) (2019)
 - [Quantum Generative Adversarial Learning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.040502) (2018)
 - [Quantum generative adversarial networks](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.012324) (2018)
