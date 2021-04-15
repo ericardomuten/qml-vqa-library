@@ -26,6 +26,10 @@ A list of research paper related to quantum machine learning and variational qua
 - [Quantum Algorithms for Deep Convolutional Neural Networks](https://iclr.cc/virtual_2020/poster_Hygab1rKDS.html) (2020)
 
 ## Quantum Graph Neural Networks
+- [Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189) (2021)
+- [Performance of Particle Tracking Using a Quantum Graph Neural Network](https://inspirehep.net/literature/1834498) (2020)
+- [A Quantum Graph Neural Network Approach to Particle Track Reconstruction](https://inspirehep.net/literature/1806878) (2020)
+- [Particle Track Reconstruction with Quantum Algorithms](https://www.epj-conferences.org/articles/epjconf/pdf/2020/21/epjconf_chep2020_09013.pdf) (2019)
 - [Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264) (2019)
 
 ## Quantum Generative Models & Quantum GANs
