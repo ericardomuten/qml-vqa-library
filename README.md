@@ -36,7 +36,6 @@ A list of recent research papers related to quantum machine learning and variati
 - [Quantum Algorithms for Deep Convolutional Neural Networks](https://iclr.cc/virtual_2020/poster_Hygab1rKDS.html) (2020)
 
 ## Quantum Graph Neural Networks
-- [Quantum Generative Adversarial Networks in a Continuous-Variable Architecture to Simulate High Energy Physics Detectors](https://arxiv.org/abs/2101.11132) (2021)
 - [A Tutorial on Quantum Graph Recurrent Neural Network (QGRNN)](https://ieeexplore.ieee.org/document/9333917) (2021)
 - [Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189) (2021)
 - [Performance of Particle Tracking Using a Quantum Graph Neural Network](https://inspirehep.net/literature/1834498) (2020)
