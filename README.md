@@ -1,5 +1,5 @@
-# qml-vqa-library
-A list of research paper related to quantum machine learning and variational quantum algorithms.
+# QML-VQA Library
+A list of recent research papers related to quantum machine learning and variational quantum algorithms.
 
 ## Textbooks
 - [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
@@ -45,6 +45,8 @@ A list of research paper related to quantum machine learning and variational qua
 - [Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264) (2019)
 
 ## Quantum Generative Models & Quantum GANs
+- [Dual-Parameterized Quantum Circuit GAN Model in High Energy Physics](https://arxiv.org/abs/2103.15470) (2021)
+- [Quantum Generative Adversarial Networks in a Continuous-Variable Architecture to Simulate High Energy Physics Detectors](https://arxiv.org/abs/2101.11132) (2021)
 - [Quantum versus classical generative modelling in finance](https://iopscience.iop.org/article/10.1088/2058-9565/abd3db) (2021)
 - [Experimental Quantum Generative Adversarial Networks for Image Generation](https://arxiv.org/abs/2010.06201) (2020)
 - [Quantum semi-supervised generative adversarial network for enhanced data classification](https://arxiv.org/abs/2010.13727) (2020)
