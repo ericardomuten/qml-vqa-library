@@ -59,6 +59,7 @@ A list of recent research papers related to quantum machine learning and variati
 - [Improving Variational Quantum Optimization using CVaR](https://quantum-journal.org/papers/q-2020-04-20-256/) (2020)
 - [The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation](https://arxiv.org/abs/2009.13545) (2020)
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
+- [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
 
 ## Quantum Image Processing
 - [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
