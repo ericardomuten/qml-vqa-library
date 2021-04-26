@@ -64,6 +64,7 @@ A list of research paper related to quantum machine learning and variational qua
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
 
 ## Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)
+- [Expressibility of the alternating layered ansatz for quantum computation](https://quantum-journal.org/papers/q-2021-04-19-434/) (2021)
 - [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
 - [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://quantum-journal.org/papers/q-2021-03-29-422/) (2021)
 - [Expressibility and Entangling Capability ofParameterized Quantum Circuits for Hybrid Quantum-Classical Algorithms](https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.201900070) (2019)
