@@ -16,6 +16,7 @@ A list of recent research papers related to quantum machine learning and variati
 
 ## Quantum Neural Networks & Quantum Classifier
 #### Quantum Neural Networks
+- [Quantum state discrimination using noisy quantum neural networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013063) (2021)
 - [Event Classification with Quantum Machine Learning in High-Energy Physics](https://link.springer.com/article/10.1007%2Fs41781-020-00047-7) (2021)
 - [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/) (2020)
 - [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
@@ -57,10 +58,14 @@ A list of recent research papers related to quantum machine learning and variati
 
 ## Variational Quantum Eigensolver
 - [Resource-efficient quantum algorithm for protein folding (Application of CVaR-VQE)](https://www.nature.com/articles/s41534-021-00368-4) (2021)
+- [Application of Quantum Machine Learning to VLSI Placement](https://dl.acm.org/doi/10.1145/3380446.3430644) (2020)
 - [Improving Variational Quantum Optimization using CVaR](https://quantum-journal.org/papers/q-2020-04-20-256/) (2020)
 - [The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation](https://arxiv.org/abs/2009.13545) (2020)
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
 - [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
+
+## Quantum Boltzmann Machines
+- [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
 
 ## Quantum Image Processing
 - [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
