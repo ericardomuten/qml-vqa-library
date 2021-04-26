@@ -10,6 +10,7 @@ A list of recent research papers related to quantum machine learning and variati
 - [Quantum machine learning and its supremacy in high energy physics](https://www.worldscientific.com/doi/abs/10.1142/S0217732320300244) (2021)
 - [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265) (2020)
 - [A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/) (2020)
+- [Quantum Deep Learning Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-12385-7_24) (2019)
 - [Quantum machine learning: a classical perspective](https://doi.org/10.3929/ethz-b-000240892) (2018)
 - [Quantum machine learning](https://www.nature.com/articles/nature23474) (2017)
 
