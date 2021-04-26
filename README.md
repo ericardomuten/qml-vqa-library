@@ -55,6 +55,8 @@ A list of recent research papers related to quantum machine learning and variati
 - [Quantum generative adversarial networks](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.012324) (2018)
 
 ## Variational Quantum Eigensolver
+- [Resource-efficient quantum algorithm for protein folding (Application of CVaR-VQE)](https://www.nature.com/articles/s41534-021-00368-4) (2021)
+- [Improving Variational Quantum Optimization using CVaR](https://quantum-journal.org/papers/q-2020-04-20-256/) (2020)
 - [The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation](https://arxiv.org/abs/2009.13545) (2020)
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
 
