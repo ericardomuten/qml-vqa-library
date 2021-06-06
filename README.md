@@ -3,7 +3,7 @@ A curation of recent textbooks and research papers related to **quantum machine 
 
 <figure class="image">
   <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="Test1">
-  <figcaption>Scheme of a hybrid quantum-classical algorithm for supervised learning[[1](#references-1)].</figcaption>
+  <figcaption>Scheme of a hybrid quantum-classical algorithm for supervised learning[[1](#references)].</figcaption>
 </figure>
 
 ## Table of Contents
@@ -13,16 +13,16 @@ A curation of recent textbooks and research papers related to **quantum machine 
   - [Quantum Neural Networks](#quantum-neural-networks)
   - [Quantum k-Nearest Neighbors](#quantum-k-nearest-neighbors)
 - [Quantum Convolutional Neural Networks](#quantum-convolutional-neural-networks)
-  - [Near Term (without QRAM)]()
-  - [Need QRAM]()
+  - [Near Term (without QRAM)](#near-term-without-qram)
+  - [Need QRAM](#need-qram)
 - [Quantum Graph Neural Networks](#quantum-graph-neural-networks)
 - [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans)
 - [Variational Quantum Eigensolver](#variational-quantum-eigensolver)
 - [Quantum Boltzmann Machines](#quantum-boltzmann-machines)
 - [Quantum Image Processing](#quantum-image-processing)
 - [Training Techniques](#training-techniques)
-- [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)]()
-- [Uncategorized (yet)](#uncategorized--yet)
+- [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc)
+- [Uncategorized (yet)](#uncategorized-yet)
 
 ## Contents
 ### Textbooks
