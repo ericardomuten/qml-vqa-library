@@ -1,24 +1,10 @@
-<div class="image-wrapper" >
-  {% if include.url %}
-  <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
-  {% endif %}
-      <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
-  {% if include.url %}
-  </a>
-  {% endif %}
-  {% if include.caption %}
-      <p class="image-caption">{{ include.caption }}</p>
-  {% endif %}
-</div>
-
 # QML-VQA Library
 A curation of recent textbooks and research papers related to **quantum machine learning**, **variational quantum algorithms**, and **classical machine learning applications in quantum systems**.
 
 <h1 align="center">
  <img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" />
+  <figcaption>{{Test}}</figcaption>
 </h1>
-
-{% include 500809_1_En_45_Fig1_HTML.png img="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects" title="Test1" caption="Test2" %}
 
 ## Table of Contents
 - [Textbooks](https://github.com/eraraya-ricardo/qml-vqa-library#textbooks)
