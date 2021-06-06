@@ -1,5 +1,9 @@
 # QML-VQA Library
-A list of recent research papers related to quantum machine learning and variational quantum algorithms.
+A curation of recent textbooks and research papers related to **quantum machine learning**, **variational quantum algorithms**, and **classical machine learning applications in quantum systems**.
+
+# Table of Contents
+- [Textbooks](https://github.com/eraraya-ricardo/qml-vqa-library#textbooks)
+
 
 ## Textbooks
 - [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
