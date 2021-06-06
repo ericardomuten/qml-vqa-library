@@ -6,6 +6,8 @@ A curation of recent textbooks and research papers related to **quantum machine 
   <figcaption>Scheme of a hybrid quantum-classical algorithm for supervised learning[<a href="#references" rel="nofollow">1</a>].</figcaption>
 </figure>
 
+---
+
 ## Table of Contents
 - [Textbooks](#textbooks)
 - [Reviews](#reviews)
@@ -23,6 +25,8 @@ A curation of recent textbooks and research papers related to **quantum machine 
 - [Training Techniques](#training-techniques)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc)
 - [Uncategorized (yet)](#uncategorized-yet)
+
+---
 
 ## Contents
 ### Textbooks
@@ -109,6 +113,7 @@ A curation of recent textbooks and research papers related to **quantum machine 
 ### Uncategorized (yet)
 - [On the Quantum versus Classical Learnability of Discrete Distributions](https://quantum-journal.org/papers/q-2021-03-23-417/) (2021)
 
+---
 
 ## References
 [1](https://link.springer.com/chapter/10.1007/978-3-030-50433-5_45). Macaluso A., Clissa L., Lodi S., Sartori C. (2020) A Variational Algorithm for Quantum Neural Networks. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12142. Springer, Cham. https://doi.org/10.1007/978-3-030-50433-5_45
