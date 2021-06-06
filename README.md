@@ -9,23 +9,23 @@ A curation of recent textbooks and research papers related to **quantum machine 
 ---
 
 ## Table of Contents
-Press '''^''' to return to the **Table of Contents**.
+Press '^' to return to the '**Table of Contents**'.
 - [Textbooks](#textbooks-)
-- [Reviews](#reviews)
-- [Quantum Neural Networks & Quantum Classifier](#quantum-neural-networks--quantum-classifier)
-  - [Quantum Neural Networks](#quantum-neural-networks)
-  - [Quantum k-Nearest Neighbors](#quantum-k-nearest-neighbors)
-- [Quantum Convolutional Neural Networks](#quantum-convolutional-neural-networks)
-  - [Near Term (without QRAM)](#near-term-without-qram)
-  - [Need QRAM](#need-qram)
-- [Quantum Graph Neural Networks](#quantum-graph-neural-networks)
-- [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans)
-- [Variational Quantum Eigensolver](#variational-quantum-eigensolver)
-- [Quantum Boltzmann Machines](#quantum-boltzmann-machines)
-- [Quantum Image Processing](#quantum-image-processing)
-- [Training Techniques](#training-techniques)
-- [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc)
-- [Uncategorized (yet)](#uncategorized-yet)
+- [Reviews](#reviews-)
+- [Quantum Neural Networks & Quantum Classifier](#quantum-neural-networks--quantum-classifier-)
+  - [Quantum Neural Networks](#quantum-neural-networks-)
+  - [Quantum k-Nearest Neighbors](#quantum-k-nearest-neighbors-)
+- [Quantum Convolutional Neural Networks](#quantum-convolutional-neural-networks-)
+  - [Near Term (without QRAM)](#near-term-without-qram-)
+  - [Need QRAM](#need-qram-)
+- [Quantum Graph Neural Networks](#quantum-graph-neural-networks-)
+- [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans-)
+- [Variational Quantum Eigensolver](#variational-quantum-eigensolver-)
+- [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
+- [Quantum Image Processing](#quantum-image-processing-)
+- [Training Techniques](#training-techniques-)
+- [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
+- [Uncategorized (yet)](#uncategorized-yet-)
 
 ---
 
@@ -34,7 +34,7 @@ Press '''^''' to return to the **Table of Contents**.
 - [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
 - [Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.sciencedirect.com/book/9780128009536/quantum-machine-learning) (2014)
 
-### Reviews
+### Reviews [^](#table-of-contents)
 - [Quantum machine learning in high energy physics](https://iopscience.iop.org/article/10.1088/2632-2153/abc17d) (2021)
 - [Quantum machine learning and its supremacy in high energy physics](https://www.worldscientific.com/doi/abs/10.1142/S0217732320300244) (2021)
 - [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265) (2020)
@@ -43,18 +43,18 @@ Press '''^''' to return to the **Table of Contents**.
 - [Quantum machine learning: a classical perspective](https://doi.org/10.3929/ethz-b-000240892) (2018)
 - [Quantum machine learning](https://www.nature.com/articles/nature23474) (2017)
 
-### Quantum Neural Networks & Quantum Classifier
-#### Quantum Neural Networks
+### Quantum Neural Networks & Quantum Classifier [^](#table-of-contents)
+#### Quantum Neural Networks [^](#table-of-contents)
 - [Quantum state discrimination using noisy quantum neural networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013063) (2021)
 - [Event Classification with Quantum Machine Learning in High-Energy Physics](https://link.springer.com/article/10.1007%2Fs41781-020-00047-7) (2021)
 - [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/) (2020)
 - [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
 - [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
-#### Quantum k-Nearest Neighbors
+#### Quantum k-Nearest Neighbors [^](#table-of-contents)
 - [Implementing a distance-based classifier with a quantum interference circuit](https://iopscience.iop.org/article/10.1209/0295-5075/119/60002) (2017)
 
-### Quantum Convolutional Neural Networks
-#### Near Term (without QRAM)
+### Quantum Convolutional Neural Networks [^](#table-of-contents)
+#### Near Term (without QRAM) [^](#table-of-contents)
 - [Methods for accelerating geospatial data processing using quantum computers](https://link.springer.com/article/10.1007/s42484-020-00034-6) (2021)
 - [Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177) (2020)
 - [A Tutorial on Quantum Convolutional Neural Networks (QCNN)](https://arxiv.org/abs/2009.09423) (2020)
@@ -62,11 +62,11 @@ Press '''^''' to return to the **Table of Contents**.
 - [Quanvolutional neural networks: powering image recognition with quantum circuits](https://link.springer.com/article/10.1007/s42484-020-00012-y) (2020)
 - [Hybrid Quantum-Classical Convolutional Neural Networks](https://arxiv.org/abs/1911.02998) (2019)
 - [Quantum convolutional neural networks](https://www.nature.com/articles/s41567-019-0648-8) (2019)
-#### Need QRAM
+#### Need QRAM [^](#table-of-contents)
 - [A quantum deep convolutional neural network for image recognition](https://iopscience.iop.org/article/10.1088/2058-9565/ab9f93) (2020)
 - [Quantum Algorithms for Deep Convolutional Neural Networks](https://iclr.cc/virtual_2020/poster_Hygab1rKDS.html) (2020)
 
-### Quantum Graph Neural Networks
+### Quantum Graph Neural Networks [^](#table-of-contents)
 - [A Tutorial on Quantum Graph Recurrent Neural Network (QGRNN)](https://ieeexplore.ieee.org/document/9333917) (2021)
 - [Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189) (2021)
 - [Performance of Particle Tracking Using a Quantum Graph Neural Network](https://inspirehep.net/literature/1834498) (2020)
@@ -74,7 +74,7 @@ Press '''^''' to return to the **Table of Contents**.
 - [Particle Track Reconstruction with Quantum Algorithms](https://www.epj-conferences.org/articles/epjconf/pdf/2020/21/epjconf_chep2020_09013.pdf) (2019)
 - [Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264) (2019)
 
-### Quantum Generative Models & Quantum GANs
+### Quantum Generative Models & Quantum GANs [^](#table-of-contents)
 - [Noise Robustness and Experimental Demonstration of a Quantum Generative Adversarial Network for Continuous Distributions](https://onlinelibrary.wiley.com/doi/10.1002/qute.202000069) (2021)
 - [Dual-Parameterized Quantum Circuit GAN Model in High Energy Physics](https://arxiv.org/abs/2103.15470) (2021)
 - [Quantum Generative Adversarial Networks in a Continuous-Variable Architecture to Simulate High Energy Physics Detectors](https://arxiv.org/abs/2101.11132) (2021)
@@ -85,7 +85,7 @@ Press '''^''' to return to the **Table of Contents**.
 - [Quantum Generative Adversarial Learning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.040502) (2018)
 - [Quantum generative adversarial networks](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.012324) (2018)
 
-### Variational Quantum Eigensolver
+### Variational Quantum Eigensolver [^](#table-of-contents)
 - [Resource-efficient quantum algorithm for protein folding (Application of CVaR-VQE)](https://www.nature.com/articles/s41534-021-00368-4) (2021)
 - [Application of Quantum Machine Learning to VLSI Placement](https://dl.acm.org/doi/10.1145/3380446.3430644) (2020)
 - [Improving Variational Quantum Optimization using CVaR](https://quantum-journal.org/papers/q-2020-04-20-256/) (2020)
@@ -93,17 +93,17 @@ Press '''^''' to return to the **Table of Contents**.
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
 - [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
 
-### Quantum Boltzmann Machines
+### Quantum Boltzmann Machines [^](#table-of-contents)
 - [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
 
-### Quantum Image Processing
+### Quantum Image Processing [^](#table-of-contents)
 - [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
 
-### Training Techniques
+### Training Techniques [^](#table-of-contents)
 - [Avoiding local minima in Variational Quantum Algorithms with Neural Networks](https://arxiv.org/abs/2104.02955) (2021)
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
 
-### Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)
+### Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.) [^](#table-of-contents)
 - [Expressibility of the alternating layered ansatz for quantum computation](https://quantum-journal.org/papers/q-2021-04-19-434/) (2021)
 - [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
 - [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://quantum-journal.org/papers/q-2021-03-29-422/) (2021)
@@ -111,7 +111,7 @@ Press '''^''' to return to the **Table of Contents**.
 - [Power of data in quantum machine learning](https://arxiv.org/abs/2011.01938) (2020)
 - [Expressibility and Entangling Capability of Parameterized Quantum Circuits for Hybrid Quantum-Classical Algorithms](https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.201900070) (2019)
 
-### Uncategorized (yet)
+### Uncategorized (yet) [^](#table-of-contents)
 - [On the Quantum versus Classical Learnability of Discrete Distributions](https://quantum-journal.org/papers/q-2021-03-23-417/) (2021)
 
 ---
