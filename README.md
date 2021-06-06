@@ -3,14 +3,14 @@ A curation of recent textbooks and research papers related to **quantum machine 
 
 <h1 align="center">
  <img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" />
-  <figcaption>{{Test}}</figcaption>
+  <figcaption>{{"Test"}}</figcaption>
 </h1>
 
 ## Table of Contents
-- [Textbooks](https://github.com/eraraya-ricardo/qml-vqa-library#textbooks)
-- [Reviews](https://github.com/eraraya-ricardo/qml-vqa-library#reviews)
-- [Quantum Neural Networks & Quantum Classifier](https://github.com/eraraya-ricardo/qml-vqa-library#quantum-neural-networks-&-quantum-classifier)
-  - [Quantum Neural Networks](https://github.com/eraraya-ricardo/qml-vqa-library#quantum-neural-networks)
+- [Textbooks](#textbooks)
+- [Reviews](#reviews)
+- [Quantum Neural Networks & Quantum Classifier](#quantum-neural-networks-quantum-classifier)
+  - [Quantum Neural Networks](#quantum-neural-networks)
 
 
 ### Textbooks
