@@ -3,7 +3,7 @@ A curation of recent textbooks and research papers related to **quantum machine 
 
 <figure class="image">
   <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="Test1">
-  <figcaption>"Test2"</figcaption>
+  <figcaption>"Scheme of a hybrid quantum-classical algorithm for supervised learning[1]."</figcaption>
 </figure>
 
 ## Table of Contents
@@ -12,7 +12,7 @@ A curation of recent textbooks and research papers related to **quantum machine 
 - [Quantum Neural Networks & Quantum Classifier](#quantum-neural-networks--quantum-classifier)
   - [Quantum Neural Networks](#quantum-neural-networks)
 
-
+## Contents
 ### Textbooks
 - [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
 - [Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.sciencedirect.com/book/9780128009536/quantum-machine-learning) (2014)
@@ -96,3 +96,7 @@ A curation of recent textbooks and research papers related to **quantum machine 
 
 ### Uncategorized (yet)
 - [On the Quantum versus Classical Learnability of Discrete Distributions](https://quantum-journal.org/papers/q-2021-03-23-417/) (2021)
+
+
+## References
+[1](https://link.springer.com/chapter/10.1007/978-3-030-50433-5_45). Macaluso A., Clissa L., Lodi S., Sartori C. (2020) A Variational Algorithm for Quantum Neural Networks. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12142. Springer, Cham. https://doi.org/10.1007/978-3-030-50433-5_45
