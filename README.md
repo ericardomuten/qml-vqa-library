@@ -9,7 +9,8 @@ A curation of recent textbooks and research papers related to **quantum machine 
 ---
 
 ## Table of Contents
-- [Textbooks](#textbooks)
+Press '''^''' to return to the **Table of Contents**.
+- [Textbooks](#textbooks-)
 - [Reviews](#reviews)
 - [Quantum Neural Networks & Quantum Classifier](#quantum-neural-networks--quantum-classifier)
   - [Quantum Neural Networks](#quantum-neural-networks)
