@@ -29,7 +29,7 @@ A curation of recent textbooks and research papers related to **quantum machine 
 ---
 
 ## Contents
-### Textbooks
+### Textbooks [^](#table-of-contents)
 - [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
 - [Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.sciencedirect.com/book/9780128009536/quantum-machine-learning) (2014)
 
