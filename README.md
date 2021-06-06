@@ -3,7 +3,7 @@ A curation of recent textbooks and research papers related to **quantum machine 
 
 <figure class="image">
   <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="Test1">
-  <figcaption>Scheme of a hybrid quantum-classical algorithm for supervised learning[[1](#references)].</figcaption>
+  <figcaption>Scheme of a hybrid quantum-classical algorithm for supervised learning[<a href="#references" rel="nofollow">1</a>].</figcaption>
 </figure>
 
 ## Table of Contents
