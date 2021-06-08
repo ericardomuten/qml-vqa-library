@@ -115,7 +115,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum gradient algorithm for general polynomials](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042403) (2021)
 - [Quantum approximate optimization of non-planar graph problems on a planar superconducting processor](https://www.nature.com/articles/s41567-020-01105-y) (2021)
 - [The Quantum Alternating Operator Ansatz on Maximum k-Vertex Cover](https://ieeexplore.ieee.org/abstract/document/9259949) (2020)
-- [Quantum optimization using variational algorithms on near-term quantum devices](https://iopscience.iop.org/article/10.1088/2058-9565/aab822#qstaab822s5) (2018) *this one is like a review of VQE*
+- [Quantum optimization using variational algorithms on near-term quantum devices](https://iopscience.iop.org/article/10.1088/2058-9565/aab822#qstaab822s5) (2018) (*this one is like a review of VQE*)
 - [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028) (2014)
 
 ### Quantum Autoencoders [^](#table-of-contents)
