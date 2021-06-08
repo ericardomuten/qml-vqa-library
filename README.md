@@ -23,6 +23,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans-)
 - [Variational Quantum Eigensolver](#variational-quantum-eigensolver-)
 - [Training Techniques](#training-techniques-)
+- [Embedding Techniques](#embedding-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
 - [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
@@ -47,6 +48,7 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Quantum Neural Networks & Quantum Classifier [^](#table-of-contents)
 #### Quantum Neural Networks [^](#table-of-contents)
+- [Quantum Machine Learning Algorithms for Drug Discovery Applications](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00166) (2021)
 - [On Depth, Robustness and Performance Using the Data Re-Uploading Single-Qubit Classifier](https://ieeexplore.ieee.org/document/9415627) (2021)
 - [Quantum state discrimination using noisy quantum neural networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013063) (2021)
 - [Event Classification with Quantum Machine Learning in High-Energy Physics](https://link.springer.com/article/10.1007%2Fs41781-020-00047-7) (2021)
