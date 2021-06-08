@@ -45,6 +45,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum machine learning and its supremacy in high energy physics](https://www.worldscientific.com/doi/abs/10.1142/S0217732320300244) (2021)
 - [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265) (2020)
 - [A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/) (2020)
+- [Quantum Chemistry in the Age of Quantum Computing](https://pubs.acs.org/doi/10.1021/acs.chemrev.8b00803) (2019)
 - [Quantum Deep Learning Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-12385-7_24) (2019)
 - [Quantum machine learning: a classical perspective](https://doi.org/10.3929/ethz-b-000240892) (2018)
 - [Quantum machine learning](https://www.nature.com/articles/nature23474) (2017)
@@ -102,6 +103,7 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Variational Quantum Eigensolver [^](#table-of-contents)
 - [Resource-efficient quantum algorithm for protein folding (Application of CVaR-VQE)](https://www.nature.com/articles/s41534-021-00368-4) (2021)
+- [Penalty methods for a variational quantum eigensolver](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013197) (2021)
 - [Application of Quantum Machine Learning to VLSI Placement](https://dl.acm.org/doi/10.1145/3380446.3430644) (2020)
 - [Improving Variational Quantum Optimization using CVaR](https://quantum-journal.org/papers/q-2020-04-20-256/) (2020)
 - [The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation](https://arxiv.org/abs/2009.13545) (2020)
@@ -111,7 +113,10 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Quantum Optimization [^](#table-of-contents)
 - [Quantum gradient algorithm for general polynomials](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042403) (2021)
-- 
+- [Quantum approximate optimization of non-planar graph problems on a planar superconducting processor](https://www.nature.com/articles/s41567-020-01105-y) (2021)
+- [The Quantum Alternating Operator Ansatz on Maximum k-Vertex Cover](https://ieeexplore.ieee.org/abstract/document/9259949) (2020)
+- [Quantum optimization using variational algorithms on near-term quantum devices](https://iopscience.iop.org/article/10.1088/2058-9565/aab822#qstaab822s5) (2018) *this one is like a review of VQE*
+- [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028) (2014)
 
 ### Quantum Autoencoders [^](#table-of-contents)
 - [Quantum autoencoders with enhanced data encoding](https://iopscience.iop.org/article/10.1088/2632-2153/ac0616) (2021)
