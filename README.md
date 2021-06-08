@@ -22,6 +22,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Graph Neural Networks](#quantum-graph-neural-networks-)
 - [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans-)
 - [Variational Quantum Eigensolver](#variational-quantum-eigensolver-)
+- [Quantum Autoencoders](#quantum-autoencoders-)
 - [Training Techniques](#training-techniques-)
 - [Embedding Techniques](#embedding-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
@@ -60,6 +61,7 @@ Press `^` to return to the **`Table of Contents`**.
 #### Quantum Support Vector Machine [^](#table-of-contents)
 - [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
 - [Supervised learning with quantum-enhanced feature spaces](https://www.nature.com/articles/s41586-019-0980-2) (2019)
+- [Quantum machine learning for quantum anomaly detection](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.042315) (2018)
 #### Quantum k-Nearest Neighbors [^](#table-of-contents)
 - [Implementing a distance-based classifier with a quantum interference circuit](https://iopscience.iop.org/article/10.1209/0295-5075/119/60002) (2017)
 
@@ -103,6 +105,11 @@ Press `^` to return to the **`Table of Contents`**.
 - [Subspace-search variational quantum eigensolver for excited states](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.033062) (2019)
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
 - [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
+
+### Quantum Autoencoders [^](#table-of-contents)
+- [Quantum autoencoders with enhanced data encoding](https://iopscience.iop.org/article/10.1088/2632-2153/ac0616) (2021)
+- [Quantum Autoencoders to Denoise Quantum Data](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.130502) (2020)
+- [Quantum autoencoders for efficient compression of quantum data](https://iopscience.iop.org/article/10.1088/2058-9565/aa8072) (2017)
 
 ### Training Techniques [^](#table-of-contents)
 - [Avoiding local minima in Variational Quantum Algorithms with Neural Networks](https://arxiv.org/abs/2104.02955) (2021)
