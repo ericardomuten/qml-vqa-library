@@ -27,6 +27,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Embedding Techniques](#embedding-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
+- [Gradient Calculation](#gradient-calculation-)
 - [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
 - [Quantum Image Processing](#quantum-image-processing-)
 - [Uncategorized (yet)](#uncategorized-yet-)
@@ -87,6 +88,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264) (2019)
 
 ### Quantum Generative Models & Quantum GANs [^](#table-of-contents)
+- [Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer](https://scirate.com/arxiv/2012.03924) (2021)
 - [Noise Robustness and Experimental Demonstration of a Quantum Generative Adversarial Network for Continuous Distributions](https://onlinelibrary.wiley.com/doi/10.1002/qute.202000069) (2021)
 - [Dual-Parameterized Quantum Circuit GAN Model in High Energy Physics](https://arxiv.org/abs/2103.15470) (2021)
 - [Quantum Generative Adversarial Networks in a Continuous-Variable Architecture to Simulate High Energy Physics Detectors](https://arxiv.org/abs/2101.11132) (2021)
@@ -131,6 +133,9 @@ Press `^` to return to the **`Table of Contents`**.
 ### Barren Plateaus Analysis [^](#table-of-contents)
 - [Cost function dependent barren plateaus in shallow parametrized quantum circuits](https://www.nature.com/articles/s41467-021-21728-w) (2021)
 - [Barren plateaus in quantum neural network training landscapes](https://www.nature.com/articles/s41467-018-07090-4) (2018)
+
+### Gradient Calculation [^](#table-of-contents)
+- [Single-component gradient rules for variational quantum algorithms](https://scirate.com/arxiv/2106.01388) (2021)
 
 ### Quantum Boltzmann Machines [^](#table-of-contents)
 - [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
