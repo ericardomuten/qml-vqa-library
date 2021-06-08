@@ -12,7 +12,7 @@ A curation of recent textbooks and research papers related to **`quantum machine
 Press `^` to return to the **`Table of Contents`**.
 - [Textbooks](#textbooks-)
 - [Reviews](#reviews-)
-- [Quantum Neural Networks & Quantum Classifier](#quantum-neural-networks--quantum-classifier-)
+- [Quantum Neural Networks, Variational Quantum Classifier, & Other Quantum Classifier](#quantum-neural-networks-variational-quantum-classifier-other-quantum-classifier-)
   - [Quantum Neural Networks](#quantum-neural-networks-)
   - [Quantum Support Vector Machine](#quantum-support-vector-machine-)
   - [Quantum k-Nearest Neighbors](#quantum-k-nearest-neighbors-)
@@ -46,7 +46,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum machine learning: a classical perspective](https://doi.org/10.3929/ethz-b-000240892) (2018)
 - [Quantum machine learning](https://www.nature.com/articles/nature23474) (2017)
 
-### Quantum Neural Networks & Quantum Classifier [^](#table-of-contents)
+### Quantum Neural Networks, Variational Quantum Classifier, & Other Quantum Classifier [^](#table-of-contents)
 #### Quantum Neural Networks [^](#table-of-contents)
 - [Quantum Machine Learning Algorithms for Drug Discovery Applications](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00166) (2021)
 - [On Depth, Robustness and Performance Using the Data Re-Uploading Single-Qubit Classifier](https://ieeexplore.ieee.org/document/9415627) (2021)
@@ -107,6 +107,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
 
 ### Embedding Techniques [^](#table-of-contents)
+- [Efficient Discrete Feature Encoding for Variational Quantum Classifier](https://ieeexplore.ieee.org/document/9259984/references#references) (2020)
 - [Robust data encodings for quantum classifiers](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.032420) (2020)
 
 ### Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.) [^](#table-of-contents)
