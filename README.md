@@ -14,6 +14,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Reviews](#reviews-)
 - [Quantum Neural Networks & Quantum Classifier](#quantum-neural-networks--quantum-classifier-)
   - [Quantum Neural Networks](#quantum-neural-networks-)
+  - [Quantum Support Vector Machine](#quantum-support-vector-machine-)
   - [Quantum k-Nearest Neighbors](#quantum-k-nearest-neighbors-)
 - [Quantum Convolutional Neural Networks](#quantum-convolutional-neural-networks-)
   - [Near Term (without QRAM)](#near-term-without-qram-)
@@ -21,11 +22,11 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Graph Neural Networks](#quantum-graph-neural-networks-)
 - [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans-)
 - [Variational Quantum Eigensolver](#variational-quantum-eigensolver-)
-- [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
-- [Quantum Image Processing](#quantum-image-processing-)
 - [Training Techniques](#training-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
+- [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
+- [Quantum Image Processing](#quantum-image-processing-)
 - [Uncategorized (yet)](#uncategorized-yet-)
 
 ---
@@ -50,8 +51,12 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum state discrimination using noisy quantum neural networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013063) (2021)
 - [Event Classification with Quantum Machine Learning in High-Energy Physics](https://link.springer.com/article/10.1007%2Fs41781-020-00047-7) (2021)
 - [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/) (2020)
-- [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
+- [Hierarchical quantum classifiers](https://www.nature.com/articles/s41534-018-0116-9) (2018)
+- [Quantum circuit learning](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.032309) (2018)
 - [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
+#### Quantum Support Vector Machine [^](#table-of-contents)
+- [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
+- [Supervised learning with quantum-enhanced feature spaces](https://www.nature.com/articles/s41586-019-0980-2) (2019)
 #### Quantum k-Nearest Neighbors [^](#table-of-contents)
 - [Implementing a distance-based classifier with a quantum interference circuit](https://iopscience.iop.org/article/10.1209/0295-5075/119/60002) (2017)
 
@@ -95,15 +100,12 @@ Press `^` to return to the **`Table of Contents`**.
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
 - [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
 
-### Quantum Boltzmann Machines [^](#table-of-contents)
-- [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
-
-### Quantum Image Processing [^](#table-of-contents)
-- [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
-
 ### Training Techniques [^](#table-of-contents)
 - [Avoiding local minima in Variational Quantum Algorithms with Neural Networks](https://arxiv.org/abs/2104.02955) (2021)
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
+
+### Embedding Techniques [^](#table-of-contents)
+- [Robust data encodings for quantum classifiers](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.032420) (2020)
 
 ### Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.) [^](#table-of-contents)
 - [Expressibility of the alternating layered ansatz for quantum computation](https://quantum-journal.org/papers/q-2021-04-19-434/) (2021)
@@ -116,6 +118,12 @@ Press `^` to return to the **`Table of Contents`**.
 ### Barren Plateaus Analysis [^](#table-of-contents)
 - [Cost function dependent barren plateaus in shallow parametrized quantum circuits](https://www.nature.com/articles/s41467-021-21728-w) (2021)
 - [Barren plateaus in quantum neural network training landscapes](https://www.nature.com/articles/s41467-018-07090-4) (2018)
+
+### Quantum Boltzmann Machines [^](#table-of-contents)
+- [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
+
+### Quantum Image Processing [^](#table-of-contents)
+- [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
 
 ### Uncategorized (yet) [^](#table-of-contents)
 - [On the Quantum versus Classical Learnability of Discrete Distributions](https://quantum-journal.org/papers/q-2021-03-23-417/) (2021)
