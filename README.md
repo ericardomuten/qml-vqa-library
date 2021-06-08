@@ -1,5 +1,5 @@
 # QML-VQA Library
-A curation of recent textbooks and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, and **`classical machine learning applications in quantum systems`**.
+A curation of recent textbooks, online articles, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, and **`classical machine learning applications in quantum systems`**.
 
 <figure class="image">
   <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="Test1">
@@ -114,6 +114,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum autoencoders for efficient compression of quantum data](https://iopscience.iop.org/article/10.1088/2058-9565/aa8072) (2017)
 
 ### Training & Circuit Construction Techniques [^](#table-of-contents)
+- [Optimizing quantum heuristics with meta-learning](https://link.springer.com/article/10.1007/s42484-020-00022-w) (2021)
 - [Machine Learning of Noise-Resilient Quantum Circuits](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010324) (2021)
 - [Avoiding local minima in Variational Quantum Algorithms with Neural Networks](https://arxiv.org/abs/2104.02955) (2021)
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
@@ -136,6 +137,11 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Gradient Calculation [^](#table-of-contents)
 - [Single-component gradient rules for variational quantum algorithms](https://scirate.com/arxiv/2106.01388) (2021)
+- [Measuring Analytic Gradients of General Quantum Evolution with the Stochastic Parameter Shift Rule](https://quantum-journal.org/papers/q-2021-01-25-386/) (2021)
+- [the noisy parameter-shift rule](https://johannesjakobmeyer.com/blog/004-noisy-parameter-shift/#fn:5) (2020)
+- [Quantum Natural Gradient](https://quantum-journal.org/papers/q-2020-05-25-269/) (2020)
+- [Evaluating analytic gradients on quantum hardware](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.032331) (2019)
+- [Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition](https://arxiv.org/abs/1905.13311) (2019)
 
 ### Quantum Boltzmann Machines [^](#table-of-contents)
 - [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
