@@ -25,6 +25,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Image Processing](#quantum-image-processing-)
 - [Training Techniques](#training-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
+- [Barren Plateaus Analysis](#barren-plateaus-analysis-)
 - [Uncategorized (yet)](#uncategorized-yet-)
 
 ---
@@ -45,6 +46,7 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Quantum Neural Networks & Quantum Classifier [^](#table-of-contents)
 #### Quantum Neural Networks [^](#table-of-contents)
+- [On Depth, Robustness and Performance Using the Data Re-Uploading Single-Qubit Classifier](https://ieeexplore.ieee.org/document/9415627) (2021)
 - [Quantum state discrimination using noisy quantum neural networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013063) (2021)
 - [Event Classification with Quantum Machine Learning in High-Energy Physics](https://link.springer.com/article/10.1007%2Fs41781-020-00047-7) (2021)
 - [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/) (2020)
@@ -110,6 +112,10 @@ Press `^` to return to the **`Table of Contents`**.
 - [The power of quantum neural networks](https://arxiv.org/abs/2011.00027) (2020)
 - [Power of data in quantum machine learning](https://arxiv.org/abs/2011.01938) (2020)
 - [Expressibility and Entangling Capability of Parameterized Quantum Circuits for Hybrid Quantum-Classical Algorithms](https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.201900070) (2019)
+
+### Barren Plateaus Analysis [^](#table-of-contents)
+- [Cost function dependent barren plateaus in shallow parametrized quantum circuits](https://www.nature.com/articles/s41467-021-21728-w) (2021)
+- [Barren plateaus in quantum neural network training landscapes](https://www.nature.com/articles/s41467-018-07090-4) (2018)
 
 ### Uncategorized (yet) [^](#table-of-contents)
 - [On the Quantum versus Classical Learnability of Discrete Distributions](https://quantum-journal.org/papers/q-2021-03-23-417/) (2021)
