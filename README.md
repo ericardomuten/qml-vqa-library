@@ -23,7 +23,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans-)
 - [Variational Quantum Eigensolver](#variational-quantum-eigensolver-)
 - [Quantum Autoencoders](#quantum-autoencoders-)
-- [Training Techniques](#training-techniques-)
+- [Training & Circuit Construction Techniques](#training--circuit-construction-techniques-)
 - [Embedding Techniques](#embedding-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
@@ -111,7 +111,8 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Autoencoders to Denoise Quantum Data](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.130502) (2020)
 - [Quantum autoencoders for efficient compression of quantum data](https://iopscience.iop.org/article/10.1088/2058-9565/aa8072) (2017)
 
-### Training Techniques [^](#table-of-contents)
+### Training & Circuit Construction Techniques [^](#table-of-contents)
+- [Machine Learning of Noise-Resilient Quantum Circuits](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010324) (2021)
 - [Avoiding local minima in Variational Quantum Algorithms with Neural Networks](https://arxiv.org/abs/2104.02955) (2021)
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
 
