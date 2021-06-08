@@ -12,8 +12,8 @@ A curation of recent textbooks and research papers related to **`quantum machine
 Press `^` to return to the **`Table of Contents`**.
 - [Textbooks](#textbooks-)
 - [Reviews](#reviews-)
-- [Quantum Neural Networks, Variational Quantum Classifier, & Other Quantum Classifier](#quantum-neural-networks-variational-quantum-classifier-other-quantum-classifier-)
-  - [Quantum Neural Networks & Variational Quantum Classifier](#quantum-neural-networks-variational-quantum-classifier-)
+- [Quantum Neural Networks, Variational Quantum Classifier, & Other Quantum Classifier](#quantum-neural-networks-variational-quantum-classifier--other-quantum-classifier-)
+  - [Quantum Neural Networks & Variational Quantum Classifier](#quantum-neural-networks--variational-quantum-classifier-)
   - [Quantum Support Vector Machine](#quantum-support-vector-machine-)
   - [Quantum k-Nearest Neighbors](#quantum-k-nearest-neighbors-)
 - [Quantum Convolutional Neural Networks](#quantum-convolutional-neural-networks-)
@@ -109,7 +109,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
 
 ### Embedding Techniques [^](#table-of-contents)
-- [Efficient Discrete Feature Encoding for Variational Quantum Classifier](https://ieeexplore.ieee.org/document/9259984/references#references) (2020)
+- [Efficient Discrete Feature Encoding for Variational Quantum Classifier](https://ieeexplore.ieee.org/document/9259984) (2020)
 - [Robust data encodings for quantum classifiers](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.032420) (2020)
 
 ### Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.) [^](#table-of-contents)
