@@ -22,6 +22,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Graph Neural Networks](#quantum-graph-neural-networks-)
 - [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans-)
 - [Variational Quantum Eigensolver](#variational-quantum-eigensolver-)
+- [Quantum Optimization](#quantum-optimization-)
 - [Quantum Autoencoders](#quantum-autoencoders-)
 - [Training & Circuit Construction Techniques](#training--circuit-construction-techniques-)
 - [Embedding Techniques](#embedding-techniques-)
@@ -107,6 +108,10 @@ Press `^` to return to the **`Table of Contents`**.
 - [Subspace-search variational quantum eigensolver for excited states](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.033062) (2019)
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
 - [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
+
+### Quantum Optimization [^](#table-of-contents)
+- [Quantum gradient algorithm for general polynomials](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042403) (2021)
+- 
 
 ### Quantum Autoencoders [^](#table-of-contents)
 - [Quantum autoencoders with enhanced data encoding](https://iopscience.iop.org/article/10.1088/2632-2153/ac0616) (2021)
