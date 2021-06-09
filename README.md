@@ -1,5 +1,5 @@
 # QML-VQA Library
-A curation of recent textbooks, online articles, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, and **`classical machine learning applications in quantum systems`**.
+A curation of recent textbooks, online articles, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, **`tensor networks`**, and **`classical machine learning applications in quantum systems`**.
 
 <figure class="image">
   <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="Test1">
@@ -31,8 +31,10 @@ Press `^` to return to the **`Table of Contents`**.
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
 - [Gradient Calculation](#gradient-calculation-)
+- [Tensor Networks](#tensor-networks-)
 - [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
 - [Quantum Image Processing](#quantum-image-processing-)
+- [Classical Machine Learning Applications in Quantum Computing](#classical-machine-learning-applications-in-quantum-computing-)
 - [Uncategorized (yet)](#uncategorized-yet-)
 
 ---
@@ -118,6 +120,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
 
 ### Quantum Optimization [^](#table-of-contents)
+- [Qubit-efficient encoding schemes for binary optimisation problems](https://quantum-journal.org/papers/q-2021-05-04-454/) (2021)
 - [Quantum gradient algorithm for general polynomials](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042403) (2021)
 - [Quantum approximate optimization of non-planar graph problems on a planar superconducting processor](https://www.nature.com/articles/s41567-020-01105-y) (2021)
 - [The Quantum Alternating Operator Ansatz on Maximum k-Vertex Cover](https://ieeexplore.ieee.org/abstract/document/9259949) (2020)
@@ -152,6 +155,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Expressibility and Entangling Capability of Parameterized Quantum Circuits for Hybrid Quantum-Classical Algorithms](https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.201900070) (2019)
 
 ### Barren Plateaus Analysis [^](#table-of-contents)
+- [Diagnosing barren plateaus with tools from quantum optimal control](https://arxiv.org/abs/2105.14377) (2021)
 - [Cost function dependent barren plateaus in shallow parametrized quantum circuits](https://www.nature.com/articles/s41467-021-21728-w) (2021)
 - [Barren plateaus in quantum neural network training landscapes](https://www.nature.com/articles/s41467-018-07090-4) (2018)
 
@@ -163,11 +167,17 @@ Press `^` to return to the **`Table of Contents`**.
 - [Evaluating analytic gradients on quantum hardware](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.032331) (2019)
 - [Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition](https://arxiv.org/abs/1905.13311) (2019)
 
+### Tensor Networks [^](#table-of-contents)
+- [Parallel quantum simulation of large systems on small NISQ computers](https://www.nature.com/articles/s41534-021-00420-3) (2021)
+
 ### Quantum Boltzmann Machines [^](#table-of-contents)
 - [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
 
 ### Quantum Image Processing [^](#table-of-contents)
 - [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
+
+### Classical Machine Learning Applications in Quantum Computing [^](#table-of-contents)
+- [Protocol Discovery for the Quantum Control of Majoranas by Differentiable Programming and Natural Evolution Strategies](https://link.aps.org/doi/10.1103/PRXQuantum.2.020332) (2021)
 
 ### Uncategorized (yet) [^](#table-of-contents)
 - [On the Quantum versus Classical Learnability of Discrete Distributions](https://quantum-journal.org/papers/q-2021-03-23-417/) (2021)
