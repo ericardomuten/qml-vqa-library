@@ -23,6 +23,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans-)
 - [Variational Quantum Eigensolver](#variational-quantum-eigensolver-)
 - [Quantum Optimization](#quantum-optimization-)
+- [Quantum Reinforcement Learning](#quantum-reinforcement-learning-)
 - [Quantum Autoencoders](#quantum-autoencoders-)
 - [Training & Circuit Construction Techniques](#training--circuit-construction-techniques-)
 - [Embedding Techniques](#embedding-techniques-)
@@ -43,6 +44,7 @@ Press `^` to return to the **`Table of Contents`**.
 ### Reviews [^](#table-of-contents)
 - [Quantum machine learning in high energy physics](https://iopscience.iop.org/article/10.1088/2632-2153/abc17d) (2021)
 - [Quantum machine learning and its supremacy in high energy physics](https://www.worldscientific.com/doi/abs/10.1142/S0217732320300244) (2021)
+- [Quantum Reinforcement Learning with Quantum Photonics](https://www.mdpi.com/2304-6732/8/2/33) (2021)
 - [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265) (2020)
 - [A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/) (2020)
 - [Quantum Chemistry in the Age of Quantum Computing](https://pubs.acs.org/doi/10.1021/acs.chemrev.8b00803) (2019)
@@ -70,6 +72,7 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Quantum Convolutional Neural Networks [^](#table-of-contents)
 #### Near Term (without QRAM) [^](#table-of-contents)
+- [Decentralizing Feature Extraction with Quantum Convolutional Neural Network for Automatic Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9413453) (2021)
 - [Methods for accelerating geospatial data processing using quantum computers](https://link.springer.com/article/10.1007/s42484-020-00034-6) (2021)
 - [Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177) (2020)
 - [A Tutorial on Quantum Convolutional Neural Networks (QCNN)](https://arxiv.org/abs/2009.09423) (2020)
@@ -117,6 +120,10 @@ Press `^` to return to the **`Table of Contents`**.
 - [The Quantum Alternating Operator Ansatz on Maximum k-Vertex Cover](https://ieeexplore.ieee.org/abstract/document/9259949) (2020)
 - [Quantum optimization using variational algorithms on near-term quantum devices](https://iopscience.iop.org/article/10.1088/2058-9565/aab822#qstaab822s5) (2018) (*this one is like a review of VQE*)
 - [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028) (2014)
+
+### Quantum Reinforcement Learning [^](#table-of-contents)
+- [Variational Quantum Circuits for Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9144562) (2020)
+- [Reinforcement Learning with Quantum Variational Circuit](https://ojs.aaai.org//index.php/AIIDE/article/view/7437) (2020)
 
 ### Quantum Autoencoders [^](#table-of-contents)
 - [Quantum autoencoders with enhanced data encoding](https://iopscience.iop.org/article/10.1088/2632-2153/ac0616) (2021)
