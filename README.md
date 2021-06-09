@@ -27,7 +27,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Reinforcement Learning](#quantum-reinforcement-learning-)
 - [Quantum Autoencoders](#quantum-autoencoders-)
 - [Training & Circuit Construction Techniques](#training--circuit-construction-techniques-)
-- [Embedding Techniques](#embedding-techniques-)
+- [Embedding/Encoding Techniques](#embedding-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
 - [Gradient Calculation](#gradient-calculation-)
@@ -142,7 +142,8 @@ Press `^` to return to the **`Table of Contents`**.
 - [Avoiding local minima in Variational Quantum Algorithms with Neural Networks](https://arxiv.org/abs/2104.02955) (2021)
 - [Layerwise learning for quantum neural networks](https://link.springer.com/article/10.1007%2Fs42484-020-00036-4) (2021)
 
-### Embedding Techniques [^](#table-of-contents)
+### Embedding/Encoding Techniques [^](#table-of-contents)
+- [Encoding-dependent generalization bounds for parametrized quantum circuits](https://scirate.com/arxiv/2106.03880) (2021)
 - [Efficient Discrete Feature Encoding for Variational Quantum Classifier](https://ieeexplore.ieee.org/document/9259984) (2020)
 - [Robust data encodings for quantum classifiers](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.032420) (2020)
 
