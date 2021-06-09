@@ -67,6 +67,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum circuit learning](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.032309) (2018)
 - [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
 #### Quantum Support Vector Machine [^](#table-of-contents)
+- [Application of Quantum Machine Learning using the Quantum Kernel Algorithm on High Energy Physics Analysis at the LHC](https://inspirehep.net/literature/1857931) (2021)
 - [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
 - [Supervised learning with quantum-enhanced feature spaces](https://www.nature.com/articles/s41586-019-0980-2) (2019)
 - [Quantum machine learning for quantum anomaly detection](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.042315) (2018)
