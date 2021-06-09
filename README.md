@@ -12,9 +12,10 @@ A curation of recent textbooks, online articles, and research papers related to 
 Press `^` to return to the **`Table of Contents`**.
 - [Textbooks](#textbooks-)
 - [Reviews](#reviews-)
-- [Quantum Neural Networks, Variational Quantum Classifier, & Other Quantum Classifier](#quantum-neural-networks-variational-quantum-classifier--other-quantum-classifier-)
+- [Quantum Classifier](#quantum-classifier-)
   - [Quantum Neural Networks & Variational Quantum Classifier](#quantum-neural-networks--variational-quantum-classifier-)
   - [Quantum Support Vector Machine](#quantum-support-vector-machine-)
+  - [Quantum Ensembles](#quantum-ensembles-)
   - [Quantum k-Nearest Neighbors](#quantum-k-nearest-neighbors-)
 - [Quantum Convolutional Neural Networks](#quantum-convolutional-neural-networks-)
   - [Near Term (without QRAM)](#near-term-without-qram-)
@@ -52,7 +53,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum machine learning: a classical perspective](https://doi.org/10.3929/ethz-b-000240892) (2018)
 - [Quantum machine learning](https://www.nature.com/articles/nature23474) (2017)
 
-### Quantum Neural Networks, Variational Quantum Classifier, & Other Quantum Classifier [^](#table-of-contents)
+### Quantum Classifier [^](#table-of-contents)
 #### Quantum Neural Networks & Variational Quantum Classifier [^](#table-of-contents)
 - [Quantum Machine Learning Algorithms for Drug Discovery Applications](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00166) (2021)
 - [On Depth, Robustness and Performance Using the Data Re-Uploading Single-Qubit Classifier](https://ieeexplore.ieee.org/document/9415627) (2021)
@@ -67,6 +68,8 @@ Press `^` to return to the **`Table of Contents`**.
 - [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
 - [Supervised learning with quantum-enhanced feature spaces](https://www.nature.com/articles/s41586-019-0980-2) (2019)
 - [Quantum machine learning for quantum anomaly detection](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.042315) (2018)
+#### Quantum Ensembles [^](#table-of-contents)
+- [On quantum ensembles of quantum classifiers](https://link.springer.com/article/10.1007/s42484-020-00018-6) (2020)
 #### Quantum k-Nearest Neighbors [^](#table-of-contents)
 - [Implementing a distance-based classifier with a quantum interference circuit](https://iopscience.iop.org/article/10.1209/0295-5075/119/60002) (2017)
 
