@@ -27,7 +27,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Reinforcement Learning](#quantum-reinforcement-learning-)
 - [Quantum Autoencoders](#quantum-autoencoders-)
 - [Training & Circuit Construction Techniques](#training--circuit-construction-techniques-)
-- [Embedding/Encoding Techniques](#embedding-techniques-)
+- [Embedding/Encoding Techniques](#embeddingencoding-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
 - [Gradient Calculation](#gradient-calculation-)
@@ -148,6 +148,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Robust data encodings for quantum classifiers](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.032420) (2020)
 
 ### Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.) [^](#table-of-contents)
+- [Connecting geometry and performance of two-qubit parameterized quantum circuits](https://www.zapatacomputing.com/publications/connecting-geometry-and-performance-of-two-qubit-parameterized-quantum-circuits/) (2021)
 - [Expressibility of the alternating layered ansatz for quantum computation](https://quantum-journal.org/papers/q-2021-04-19-434/) (2021)
 - [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
 - [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://quantum-journal.org/papers/q-2021-03-29-422/) (2021)
@@ -178,6 +179,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
 
 ### Classical Machine Learning Applications in Quantum Computing [^](#table-of-contents)
+- [Ray-Based Framework for State Identification in Quantum Dot Devices](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.020335) (2021)
 - [Protocol Discovery for the Quantum Control of Majoranas by Differentiable Programming and Natural Evolution Strategies](https://link.aps.org/doi/10.1103/PRXQuantum.2.020332) (2021)
 
 ### Uncategorized (yet) [^](#table-of-contents)
