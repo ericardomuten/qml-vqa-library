@@ -129,6 +129,8 @@ Press `^` to return to the **`Table of Contents`**.
 - [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028) (2014)
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
+- [Quantum agents in the Gym: a variational quantum algorithm for deep Q-learning](https://arxiv.org/abs/2103.15084) (2021)
+- [Variational quantum policies for reinforcement learning](https://arxiv.org/abs/2103.05577) (2021)
 - [Variational Quantum Circuits for Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9144562) (2020)
 - [Reinforcement Learning with Quantum Variational Circuit](https://ojs.aaai.org//index.php/AIIDE/article/view/7437) (2020)
 
