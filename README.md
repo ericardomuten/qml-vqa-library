@@ -111,11 +111,12 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum generative adversarial networks](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.012324) (2018)
 
 ### Variational Quantum Eigensolver [^](#table-of-contents)
+- [Measurement-Based Variational Quantum Eigensolver](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.220501) (2021)
+- [Meta-Variational Quantum Eigensolver: Learning Energy Profiles of Parameterized Hamiltonians for Quantum Simulation](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.020329) (2021)
 - [Resource-efficient quantum algorithm for protein folding (Application of CVaR-VQE)](https://www.nature.com/articles/s41534-021-00368-4) (2021)
 - [Penalty methods for a variational quantum eigensolver](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013197) (2021)
 - [Application of Quantum Machine Learning to VLSI Placement](https://dl.acm.org/doi/10.1145/3380446.3430644) (2020)
 - [Improving Variational Quantum Optimization using CVaR](https://quantum-journal.org/papers/q-2020-04-20-256/) (2020)
-- [The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation](https://arxiv.org/abs/2009.13545) (2020)
 - [Subspace-search variational quantum eigensolver for excited states](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.033062) (2019)
 - [Variational Quantum Computation of Excited States](https://quantum-journal.org/papers/q-2019-07-01-156/) (2019)
 - [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
