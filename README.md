@@ -11,7 +11,7 @@ A curation of recent textbooks, online articles, and research papers related to 
 ## Table of Contents
 Press `^` to return to the **`Table of Contents`**.
 - [Textbooks](#textbooks-)
-- [Reviews](#reviews-)
+- [Reviews & Perspective](#reviews--perspective-)
 - [Quantum Classifier](#quantum-classifier-)
   - [Quantum Neural Networks & Variational Quantum Classifier](#quantum-neural-networks--variational-quantum-classifier-)
   - [Quantum Support Vector Machine](#quantum-support-vector-machine-)
@@ -44,7 +44,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
 - [Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.sciencedirect.com/book/9780128009536/quantum-machine-learning) (2014)
 
-### Reviews [^](#table-of-contents)
+### Reviews & Perspective [^](#table-of-contents)
 - [Quantum machine learning in high energy physics](https://iopscience.iop.org/article/10.1088/2632-2153/abc17d) (2021)
 - [Quantum machine learning and its supremacy in high energy physics](https://www.worldscientific.com/doi/abs/10.1142/S0217732320300244) (2021)
 - [Quantum Reinforcement Learning with Quantum Photonics](https://www.mdpi.com/2304-6732/8/2/33) (2021)
@@ -52,6 +52,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/) (2020)
 - [Quantum Chemistry in the Age of Quantum Computing](https://pubs.acs.org/doi/10.1021/acs.chemrev.8b00803) (2019)
 - [Quantum Deep Learning Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-12385-7_24) (2019)
+- [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://iopscience.iop.org/article/10.1088/2058-9565/aab859/meta) (2018)
 - [Quantum machine learning: a classical perspective](https://doi.org/10.3929/ethz-b-000240892) (2018)
 - [Quantum machine learning](https://www.nature.com/articles/nature23474) (2017)
 
