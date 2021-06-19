@@ -69,6 +69,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
 #### Quantum Support Vector Machine [^](#table-of-contents)
 - [Application of Quantum Machine Learning using the Quantum Kernel Algorithm on High Energy Physics Analysis at the LHC](https://inspirehep.net/literature/1857931) (2021)
+- [A rigorous and robust quantum speed-up in supervised machine learning](https://arxiv.org/abs/2010.02174) (2020)
 - [Application of Quantum Machine Learning to High Energy Physics Analysis at LHC using IBM Quantum Computer Simulators and IBM Quantum Computer Hardware](https://pos.sissa.it/367/049) (2019)
 - [Supervised learning with quantum-enhanced feature spaces](https://www.nature.com/articles/s41586-019-0980-2) (2019)
 - [Quantum machine learning for quantum anomaly detection](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.042315) (2018)
@@ -113,6 +114,7 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Variational Quantum Eigensolver [^](#table-of-contents)
 - [Measurement-Based Variational Quantum Eigensolver](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.220501) (2021)
+- [Classically-Boosted Variational Quantum Eigensolver](https://arxiv.org/abs/2106.04755) (2021)
 - [Meta-Variational Quantum Eigensolver: Learning Energy Profiles of Parameterized Hamiltonians for Quantum Simulation](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.020329) (2021)
 - [Resource-efficient quantum algorithm for protein folding (Application of CVaR-VQE)](https://www.nature.com/articles/s41534-021-00368-4) (2021)
 - [Penalty methods for a variational quantum eigensolver](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013197) (2021)
@@ -123,6 +125,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [A variational eigenvalue solver on a photonic quantum processor](https://www.nature.com/articles/ncomms5213) (2014)
 
 ### Quantum Optimization [^](#table-of-contents)
+- [Warm-starting quantum optimization](https://quantum-journal.org/papers/q-2021-06-17-479/) (2021)
 - [Qubit-efficient encoding schemes for binary optimisation problems](https://quantum-journal.org/papers/q-2021-05-04-454/) (2021)
 - [Quantum gradient algorithm for general polynomials](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042403) (2021)
 - [Quantum approximate optimization of non-planar graph problems on a planar superconducting processor](https://www.nature.com/articles/s41567-020-01105-y) (2021)
@@ -164,6 +167,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Expressibility and Entangling Capability of Parameterized Quantum Circuits for Hybrid Quantum-Classical Algorithms](https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.201900070) (2019)
 
 ### Barren Plateaus Analysis [^](#table-of-contents)
+- [Analyzing the barren plateau phenomenon in training quantum neural networks with the ZX-calculus](https://quantum-journal.org/papers/q-2021-06-04-466/) (2021)
 - [Diagnosing barren plateaus with tools from quantum optimal control](https://arxiv.org/abs/2105.14377) (2021)
 - [Cost function dependent barren plateaus in shallow parametrized quantum circuits](https://www.nature.com/articles/s41467-021-21728-w) (2021)
 - [Barren plateaus in quantum neural network training landscapes](https://www.nature.com/articles/s41467-018-07090-4) (2018)
