@@ -11,7 +11,7 @@ A curation of recent textbooks, online articles, and research papers related to 
 ## Table of Contents
 Press `^` to return to the **`Table of Contents`**.
 - [Textbooks](#textbooks-)
-- [Reviews & Perspective](#reviews--perspective-)
+- [Reviews & Perspectives](#reviews--perspectives-)
 - [Quantum Classifier](#quantum-classifier-)
   - [Quantum Neural Networks & Variational Quantum Classifier](#quantum-neural-networks--variational-quantum-classifier-)
   - [Quantum Support Vector Machine](#quantum-support-vector-machine-)
@@ -44,7 +44,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
 - [Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.sciencedirect.com/book/9780128009536/quantum-machine-learning) (2014)
 
-### Reviews & Perspective [^](#table-of-contents)
+### Reviews & Perspectives [^](#table-of-contents)
 - [Quantum machine learning in high energy physics](https://iopscience.iop.org/article/10.1088/2632-2153/abc17d) (2021)
 - [Quantum machine learning and its supremacy in high energy physics](https://www.worldscientific.com/doi/abs/10.1142/S0217732320300244) (2021)
 - [Quantum Reinforcement Learning with Quantum Photonics](https://www.mdpi.com/2304-6732/8/2/33) (2021)
@@ -153,6 +153,8 @@ Press `^` to return to the **`Table of Contents`**.
 - [Robust data encodings for quantum classifiers](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.032420) (2020)
 
 ### Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.) [^](#table-of-contents)
+- [The Inductive Bias of Quantum Kernels](https://arxiv.org/abs/2106.03747) (2021)
+- [Supervised quantum machine learning models are kernel methods](https://arxiv.org/abs/2101.11020) (2021)
 - [Connecting geometry and performance of two-qubit parameterized quantum circuits](https://www.zapatacomputing.com/publications/connecting-geometry-and-performance-of-two-qubit-parameterized-quantum-circuits/) (2021)
 - [Expressibility of the alternating layered ansatz for quantum computation](https://quantum-journal.org/papers/q-2021-04-19-434/) (2021)
 - [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
