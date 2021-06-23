@@ -1,6 +1,6 @@
 <h1 align="center">QML-VQA Library</h1>
  
-<i>A curated list of recent textbooks, reviews, perspectives, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, **`tensor networks`**, and **`classical machine learning applications in quantum systems`**.</i>
+<i align="center">A curated list of recent textbooks, reviews, perspectives, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, **`tensor networks`**, and **`classical machine learning applications in quantum systems`**.</i>
 
 <figure class="image">
   <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="Test1">
@@ -201,3 +201,6 @@ Press `^` to return to the **`Table of Contents`**.
 
 ## References
 [1](https://link.springer.com/chapter/10.1007/978-3-030-50433-5_45). Macaluso A., Clissa L., Lodi S., Sartori C. (2020) A Variational Algorithm for Quantum Neural Networks. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12142. Springer, Cham. https://doi.org/10.1007/978-3-030-50433-5_45
+
+## License
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
