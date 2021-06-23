@@ -36,7 +36,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Embedding/Encoding Techniques](#embeddingencoding-techniques-)
 - [Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.)](#circuit-learning-capability-analysis-expressivity-entanglement-etc-)
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
-- [Gradient Calculation](#gradient-calculation-)
+- [Gradient Techniques](#gradient-techniques-)
 - [Tensor Networks](#tensor-networks-)
 - [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
 - [Quantum Image Processing](#quantum-image-processing-)
@@ -178,7 +178,8 @@ Press `^` to return to the **`Table of Contents`**.
 - [Cost function dependent barren plateaus in shallow parametrized quantum circuits](https://www.nature.com/articles/s41467-021-21728-w) (2021)
 - [Barren plateaus in quantum neural network training landscapes](https://www.nature.com/articles/s41467-018-07090-4) (2018)
 
-### Gradient Calculation [^](#table-of-contents)
+### Gradient Techniques [^](#table-of-contents)
+- [Simultaneous Perturbation Stochastic Approximation of the Quantum Fisher Information](https://arxiv.org/abs/2103.09232) (2021)
 - [Single-component gradient rules for variational quantum algorithms](https://scirate.com/arxiv/2106.01388) (2021)
 - [Measuring Analytic Gradients of General Quantum Evolution with the Stochastic Parameter Shift Rule](https://quantum-journal.org/papers/q-2021-01-25-386/) (2021)
 - [the noisy parameter-shift rule](https://johannesjakobmeyer.com/blog/004-noisy-parameter-shift/#fn:5) (2020)
