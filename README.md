@@ -1,5 +1,5 @@
-# QML-VQA Library
-A curation of recent textbooks, online articles, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, **`tensor networks`**, and **`classical machine learning applications in quantum systems`**.
+<h1 align="center">QML-VQA Library
+<i>A curated list of recent textbooks, reviews, perspectives, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, **`tensor networks`**, and **`classical machine learning applications in quantum systems`**.</i>
 
 <figure class="image">
   <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="Test1">
