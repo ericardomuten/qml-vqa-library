@@ -6,7 +6,7 @@
 <i align="center">A curated list of recent textbooks, reviews, perspectives, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, **`tensor networks`**, and **`classical machine learning applications in quantum systems`**.</i>
 
 <figure class="image">
-  <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="Test1">
+  <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-50433-5_45/MediaObjects/500809_1_En_45_Fig1_HTML.png" alt="QML">
   <figcaption>Scheme of a hybrid quantum-classical algorithm for supervised learning[<a href="#references" rel="nofollow">1</a>].</figcaption>
 </figure>
 
