@@ -28,6 +28,7 @@ Press `^` to return to the **`Table of Contents`**.
   - [Need QRAM](#need-qram-)
 - [Quantum Graph Neural Networks](#quantum-graph-neural-networks-)
 - [Quantum Generative Models & Quantum GANs](#quantum-generative-models--quantum-gans-)
+- [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
 - [Variational Quantum Eigensolver](#variational-quantum-eigensolver-)
 - [Quantum Optimization](#quantum-optimization-)
 - [Quantum Reinforcement Learning](#quantum-reinforcement-learning-)
@@ -38,7 +39,6 @@ Press `^` to return to the **`Table of Contents`**.
 - [Barren Plateaus Analysis](#barren-plateaus-analysis-)
 - [Gradient Techniques](#gradient-techniques-)
 - [Tensor Networks](#tensor-networks-)
-- [Quantum Boltzmann Machines](#quantum-boltzmann-machines-)
 - [Quantum Image Processing](#quantum-image-processing-)
 - [Classical Machine Learning Applications in Quantum Computing](#classical-machine-learning-applications-in-quantum-computing-)
 - [Uncategorized (yet)](#uncategorized-yet-)
@@ -118,6 +118,10 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Generative Adversarial Learning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.040502) (2018)
 - [Quantum generative adversarial networks](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.012324) (2018)
 
+### Quantum Boltzmann Machines [^](#table-of-contents)
+- [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
+- [Quantum Boltzmann Machine](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.021050) (2018)
+
 ### Variational Quantum Eigensolver [^](#table-of-contents)
 - [Measurement-Based Variational Quantum Eigensolver](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.220501) (2021)
 - [Classically-Boosted Variational Quantum Eigensolver](https://arxiv.org/abs/2106.04755) (2021)
@@ -189,9 +193,6 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Tensor Networks [^](#table-of-contents)
 - [Parallel quantum simulation of large systems on small NISQ computers](https://www.nature.com/articles/s41534-021-00420-3) (2021)
-
-### Quantum Boltzmann Machines [^](#table-of-contents)
-- [Variational quantum Boltzmann machines](https://link.springer.com/article/10.1007%2Fs42484-020-00033-7) (2021)
 
 ### Quantum Image Processing [^](#table-of-contents)
 - [Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.031041) (2017)
