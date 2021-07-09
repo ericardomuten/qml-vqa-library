@@ -64,6 +64,7 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Quantum Classifier [^](#table-of-contents)
 #### Quantum Neural Networks & Variational Quantum Classifier [^](#table-of-contents)
+- [QDNN: deep neural networks with quantum layers](https://link.springer.com/article/10.1007/s42484-021-00046-w) (2021)
 - [Quantum Machine Learning Algorithms for Drug Discovery Applications](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00166) (2021)
 - [On Depth, Robustness and Performance Using the Data Re-Uploading Single-Qubit Classifier](https://ieeexplore.ieee.org/document/9415627) (2021)
 - [Quantum state discrimination using noisy quantum neural networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013063) (2021)
