@@ -171,13 +171,13 @@ Press `^` to return to the **`Table of Contents`**.
 
 ### Circuit Learning Capability Analysis (Expressivity, Entanglement, etc.) [^](#table-of-contents)
 - [The power of quantum neural networks](https://www.nature.com/articles/s43588-021-00084-1) (2021)
+- [Power of data in quantum machine learning](https://www.nature.com/articles/s41467-021-22539-9) (2021)
 - [The Inductive Bias of Quantum Kernels](https://arxiv.org/abs/2106.03747) (2021)
 - [Supervised quantum machine learning models are kernel methods](https://arxiv.org/abs/2101.11020) (2021)
 - [Connecting geometry and performance of two-qubit parameterized quantum circuits](https://www.zapatacomputing.com/publications/connecting-geometry-and-performance-of-two-qubit-parameterized-quantum-circuits/) (2021)
 - [Expressibility of the alternating layered ansatz for quantum computation](https://quantum-journal.org/papers/q-2021-04-19-434/) (2021)
 - [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
 - [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://quantum-journal.org/papers/q-2021-03-29-422/) (2021)
-- [Power of data in quantum machine learning](https://arxiv.org/abs/2011.01938) (2020)
 - [Expressibility and Entangling Capability of Parameterized Quantum Circuits for Hybrid Quantum-Classical Algorithms](https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.201900070) (2019)
 
 ### Barren Plateaus Analysis [^](#table-of-contents)
