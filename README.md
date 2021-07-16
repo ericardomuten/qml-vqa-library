@@ -1,7 +1,7 @@
 <h1 align="center">QML-VQA Library</h1>
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/eraraya-ricardo/qml-vqa-library/blob/main/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 <i align="center">A curated list of recent textbooks, reviews, perspectives, and research papers related to **`quantum machine learning`**, **`variational quantum algorithms`**, **`tensor networks`**, and **`classical machine learning applications in quantum systems`**.</i>
 
