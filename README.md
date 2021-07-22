@@ -109,6 +109,7 @@ Press `^` to return to the **`Table of Contents`**.
 - [Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264) (2019)
 
 ### Quantum Generative Models & Quantum GANs [^](#table-of-contents)
+- [Anomaly detection with variational quantum generative adversarial networks](https://iopscience.iop.org/article/10.1088/2058-9565/ac0d4d) (2021)
 - [Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer](https://scirate.com/arxiv/2012.03924) (2021)
 - [Noise Robustness and Experimental Demonstration of a Quantum Generative Adversarial Network for Continuous Distributions](https://onlinelibrary.wiley.com/doi/10.1002/qute.202000069) (2021)
 - [Dual-Parameterized Quantum Circuit GAN Model in High Energy Physics](https://arxiv.org/abs/2103.15470) (2021)
